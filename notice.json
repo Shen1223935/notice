@@ -1,19 +1,13 @@
 {
-  "latest_id": 2,
-  "latest_title": "123",
-  "latest_content": "31",
+  "latest_id": 1,
+  "latest_title": "12",
+  "latest_content": "12",
   "latest_time": "2026-11-01",
   "history": [
     {
       "id": 1,
       "title": "12",
       "content": "12",
-      "time": "2026-11-01"
-    },
-    {
-      "id": 2,
-      "title": "123",
-      "content": "31",
       "time": "2026-11-01"
     }
   ]
