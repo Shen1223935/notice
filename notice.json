@@ -1,13 +1,19 @@
 {
-  "latest_id": 1,
-  "latest_title": "12",
-  "latest_content": "12",
+  "latest_id": 2,
+  "latest_title": "回归测试2",
+  "latest_content": "回归测试内容2",
   "latest_time": "2026-11-01",
   "history": [
     {
       "id": 1,
       "title": "12",
       "content": "12",
+      "time": "2026-11-01"
+    },
+    {
+      "id": 2,
+      "title": "回归测试2",
+      "content": "回归测试内容2",
       "time": "2026-11-01"
     }
   ]
