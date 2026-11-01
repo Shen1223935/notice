@@ -1,1 +1,14 @@
-{"latest_id": 0, "latest_title": "", "latest_content": "", "latest_time": "", "history": []}
+{
+  "latest_id": 1,
+  "latest_title": "12",
+  "latest_content": "12",
+  "latest_time": "2026-11-01",
+  "history": [
+    {
+      "id": 1,
+      "title": "12",
+      "content": "12",
+      "time": "2026-11-01"
+    }
+  ]
+}
