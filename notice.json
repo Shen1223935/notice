@@ -1,7 +1,14 @@
 {
-  "latest_id": 0,
-  "latest_title": "",
-  "latest_content": "",
-  "latest_time": "",
-  "history": []
+  "latest_id": 1,
+  "latest_title": "公告",
+  "latest_content": "使用前一定要按照教程配置好计时器，否则计时器无法正常计时！售后群进一下1129189269\n日后更新都在群里，反馈BUG找群主，有问必答！",
+  "latest_time": "2026-11-02",
+  "history": [
+    {
+      "id": 1,
+      "title": "公告",
+      "content": "使用前一定要按照教程配置好计时器，否则计时器无法正常计时！售后群进一下1129189269\n日后更新都在群里，反馈BUG找群主，有问必答！",
+      "time": "2026-11-02"
+    }
+  ]
 }
