@@ -32,9 +32,9 @@
     {
       "code": "TST-VALID600",
       "duration_min": 600,
-      "expire_at": 1796460067184,
+      "expire_at": 1793868758774,
       "created_at": 1793868067184,
-      "active": true
+      "active": false
     },
     {
       "code": "TST-EXPIRED1",
