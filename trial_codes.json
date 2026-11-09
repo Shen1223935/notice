@@ -83,6 +83,13 @@
       "expire_at": 1794209660538,
       "created_at": 1794207860538,
       "active": true
+    },
+    {
+      "code": "N01",
+      "duration_min": 5,
+      "expire_at": 1794211570647,
+      "created_at": 1794209770647,
+      "active": true
     }
   ]
 }
