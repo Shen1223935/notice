@@ -1,1 +1,18 @@
-{"codes":[{"code":"SY1108-7DFL","duration_min":1,"expire_at":1794239999999,"created_at":1794135393249,"active":true}]}
+{
+  "codes": [
+    {
+      "code": "SY1108-7DFL",
+      "duration_min": 1,
+      "expire_at": 1794239999999,
+      "created_at": 1794135393249,
+      "active": true
+    },
+    {
+      "code": "TESTFRESH01",
+      "duration_min": 5,
+      "expire_at": 0,
+      "created_at": 1794204535044,
+      "active": true
+    }
+  ]
+}
