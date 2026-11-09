@@ -62,6 +62,13 @@
       "expire_at": 1794209079810,
       "created_at": 1794207279810,
       "active": true
+    },
+    {
+      "code": "U03",
+      "duration_min": 5,
+      "expire_at": 1794209102548,
+      "created_at": 1794207302548,
+      "active": true
     }
   ]
 }
