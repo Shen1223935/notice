@@ -104,6 +104,13 @@
       "expire_at": 1794211624364,
       "created_at": 1794209824364,
       "active": true
+    },
+    {
+      "code": "N04",
+      "duration_min": 5,
+      "expire_at": 1794211744876,
+      "created_at": 1794209944876,
+      "active": true
     }
   ]
 }
