@@ -20,6 +20,13 @@
       "expire_at": 1794205487688,
       "created_at": 1794205187688,
       "active": true
+    },
+    {
+      "code": "TESTFRESH03",
+      "duration_min": 5,
+      "expire_at": 1794205709009,
+      "created_at": 1794205409009,
+      "active": true
     }
   ]
 }
