@@ -1,1 +1,25 @@
-{"codes":[{"code":"SY1109-R6H7","duration_min":1,"expire_at":1794326399999,"created_at":1794210746789,"active":true},{"code":"SY1108-7DFL","duration_min":1,"expire_at":1794239999999,"created_at":1794135393249,"active":true}]}
+{
+  "codes": [
+    {
+      "code": "SY1109-R6H7",
+      "duration_min": 1,
+      "expire_at": 1794326399999,
+      "created_at": 1794210746789,
+      "active": true
+    },
+    {
+      "code": "SY1108-7DFL",
+      "duration_min": 1,
+      "expire_at": 1794239999999,
+      "created_at": 1794135393249,
+      "active": true
+    },
+    {
+      "code": "SY1110-K7T2",
+      "duration_min": 60,
+      "expire_at": 1794326720791,
+      "created_at": 1794323120791,
+      "active": true
+    }
+  ]
+}
